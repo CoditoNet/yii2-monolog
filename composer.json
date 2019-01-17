@@ -11,7 +11,7 @@
     ],
     "require": {
         "monolog/monolog": "^1.22",
-        "yiisoft/yii2": "~2.0.11",
+        "yiisoft/yii2": "~2.0.10",
         "php": "^7.0",
         "tightenco/collect": "~5.4"
     },
